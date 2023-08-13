@@ -1,6 +1,6 @@
 # Usability Hub Clone
 
-![Usability Hub Clone](images/usability-hub-clone.png)
+![Usability Hub Clone](screenshot/usability-hub-clone.png)
 
 The **Usability Hub Clone** project is a responsive replica of the Usability Hub website, designed to showcase the user interface and design skills.
 
@@ -17,19 +17,6 @@ The Usability Hub Clone project aims to recreate the visual aspects and responsi
 - Navigation: The navigation menu and user interactions are recreated to resemble the original site's behavior.
 
 - Visual Appeal: The design elements, typography, and color schemes capture the essence of Usability Hub's aesthetic.
-
-## Screenshots
-Desktop View
-![Desktop View](images/desktop-screenshot.png)
-*Desktop View of Usability Hub Clone*
-
-Tablet View
-![Tablet View](images/tablet-screenshot.png)
-*Tablet View of Usability Hub Clone*
-
-Mobile View
-![Mobile View](images/mobile-screenshot.png)
-*Mobile View of Usability Hub Clone*
 
 ## Getting Started
 
